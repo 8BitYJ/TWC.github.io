@@ -122,6 +122,26 @@ nav a {
     border-color:beige;
 }
 
+
+.about {
+    text-align: center;
+    padding-top: 50px;
+    width: 85%;
+    padding-left: 200px;
+    padding-bottom: 50px;
+}
+
+.about h1 {
+    color:rgb(60, 188, 214);
+    text-decoration: underline;
+}
+
+.about h3 {
+    width: 70%;
+    text-decoration: none;
+    margin-top: 50px;
+}
+
 .organizations {
     width: 900px;
     height: 200px;
